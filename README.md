@@ -215,7 +215,7 @@ Join our Telegram: [**t.me/spywarehook**](https://t.me/spywarehook)
 
 ### 2. Activate
 
-Open [@spywarehookbot](https://t.me/spywarehookbot) → `/activate YOUR-KEY`
+Open [@spywarehook_bot](https://t.me/spywarehook_bot) → `/activate YOUR-KEY`
 
 ### 3. Set webhook
 
