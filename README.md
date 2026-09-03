@@ -300,7 +300,7 @@ Seat keys available for licensed resellers — contact admins on Telegram.
 |---|---|
 | **Panel** | [spywarehook.com](https://spywarehook.com) |
 | **Telegram** | [t.me/spywarehook](https://t.me/spywarehook) — trial & purchases |
-| **Bot** | [@spywarehookbot](https://t.me/spywarehookbot) — activate, build, webhook |
+| **Bot** | [@spywarehookbot](https://t.me/spywarehook_bot) — activate, build, webhook |
 
 ---
 
