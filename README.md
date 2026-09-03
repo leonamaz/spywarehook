@@ -7,7 +7,7 @@
 **Premium data collection · Discord webhook pipeline · HWID remote control · Operator-grade panel**
 
 [![Panel](https://img.shields.io/badge/Panel-spywarehook.com-white?style=for-the-badge)](https://spywarehook.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@spywarehookbot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spywarehook)
+[![Telegram](https://img.shields.io/badge/Telegram-@spywarehook_bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spywarehook)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://spywarehook.com)
 [![Stack](https://img.shields.io/badge/Stack-Java_·_Next.js_·_Python-111?style=for-the-badge)](https://spywarehook.com)
 
